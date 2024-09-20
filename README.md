@@ -7,7 +7,7 @@ Basically this is akin to ContextAPI's simpicity with a mix of Redux
  > snap is for reading, state from proxy is for writing - random youtuber
 
 
-You only need to remember two tings in consideration to Valtio which is 
+You only need to remember two things in consideration to Valtio which is 
 
 Proxy and useSnapshot
 
