@@ -3,7 +3,7 @@
 
 Basically this is akin to ContextAPI's simpicity with a mix of Redux 
 
-###TLDR:
+### TLDR:
  > snap is for reading, state from proxy is for writing - random youtuber
 
 
